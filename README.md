@@ -1,4 +1,4 @@
-# React-YOU-TUBE_MINI
+# React-You-Tube_Mini
 
 Run with:
 
